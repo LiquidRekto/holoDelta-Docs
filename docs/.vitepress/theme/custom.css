@@ -1,0 +1,27 @@
+/* .vitepress/theme/custom.css */
+
+/* Light mode */
+:root {
+  --vp-c-brand-1: #4fc9e8;   /* Slightly darker than #74dfff */
+  --vp-c-brand-2: #74dfff;   /* Original blue for accents */
+  --vp-c-brand-3: #a2ecff;   /* Even lighter for outlines, subtle hover */
+
+  --vp-button-brand-bg: var(--vp-c-brand-1);
+  --vp-button-brand-hover-bg: var(--vp-c-brand-2);
+  --vp-button-brand-border: var(--vp-c-brand-1);
+  --vp-button-brand-hover-border: var(--vp-c-brand-2);
+  --vp-button-brand-text: #ffffff; /* white text */
+}
+
+/* Dark mode */
+.dark {
+  --vp-c-brand-1: #74dfff;   /* Primary brand color in dark mode */
+  --vp-c-brand-2: #a2ecff;   /* Lighter */
+  --vp-c-brand-3: #c7f4ff;   /* Even lighter */
+
+  --vp-button-brand-bg: var(--vp-c-brand-1);
+  --vp-button-brand-hover-bg: var(--vp-c-brand-2);
+  --vp-button-brand-border: var(--vp-c-brand-1);
+  --vp-button-brand-hover-border: var(--vp-c-brand-2);
+  --vp-button-brand-text: #ffffff; /* dark text for light background */
+}
