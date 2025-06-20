@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Tài Liệu HoloDelta"
-  text: "Tài liệu của dự án HoloDelta"
-  tagline: My great project tagline
+  name: Tài Liệu HoloDelta
+  text: Tài liệu của dự án HoloDelta
+  tagline: Mọi thứ liên quan đến HoloDelta đều có ở đây.
   image:
     src: /images/icon.png
     alt: HoloDelta

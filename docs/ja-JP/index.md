@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "HoloDeltaドキュメント"
   text: "HoloDeltaプロジェクトのドキュメント"
-  tagline: My great project tagline
+  tagline: HoloDelta に関するすべてをここでカバーしています。
   image:
     src: /images/icon.png
     alt: HoloDelta

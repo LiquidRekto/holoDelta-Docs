@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "HoloDelta Documentation"
-  text: "Documentation of HoloDelta Project"
-  tagline: My great project tagline
+  name: "HoloDelta 文件"
+  text: "HoloDelta 專案的文件"
+  tagline: 與 HoloDelta 有關的一切都在這裡。
   image:
     src: /images/icon.png
     alt: HoloDelta

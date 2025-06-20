@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "HoloDelta문서"
-  text: "HoloDeltaHoloDelta 프로젝트 문서입니다"
-  tagline: HoloDelta 관련 모든 것이 여기 있습니다.
+  name: HoloDelta-Dokumentation
+  text: Dokumentation des HoloDelta-Projekts
+  tagline: Alles über HoloDelta – hier vollständig abgedeckt.
   image:
     src: /images/icon.png
     alt: HoloDelta
