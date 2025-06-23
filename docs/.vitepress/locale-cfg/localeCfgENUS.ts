@@ -48,8 +48,11 @@ export const localeCfgENUS = {
         {
           text: "Website Parameters",
           items: [
-            { text: "General", link: "/en-US/api/query-param/general"},
-            { text: "Parameter - imported_deck", link: "/en-US/api/query-param/imported-deck"},
+            { text: "General", link: "/en-US/api/query-param/general" },
+            {
+              text: "Parameter - imported_deck",
+              link: "/en-US/api/query-param/imported-deck",
+            },
           ],
         },
         {
@@ -94,7 +97,12 @@ export const localeCfgENUS = {
         },
         {
           text: "Deck Data",
-          items: [],
+          items: [
+            {
+              text: "HoloDelta JSON",
+              link: "/en-US/manual/deck-data/holodelta-json",
+            },
+          ],
         },
       ],
     },
