@@ -4,7 +4,7 @@ outline: deep
 
 # Web Version
 
-Basically the same as [Desktop](/en-US/game-export/desktop), but instead HTML5
+Basically the same as [Desktop](/en-US/setup/game-export/desktop), but instead HTML5
 option is chosen.
 
 To sync with the server, please make sure that you exported to `Holodelta_web` folder inside

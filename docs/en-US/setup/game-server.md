@@ -13,10 +13,34 @@ Once you've done, look for the `ServerStuff` folder, that's where all the backen
 
 ### Basic folder structure
 ```
-├─ banlists
-├─ cardData.json
+├─ classes/
+├─ data_source/
+├─ globals/
+├─ utils/
+├─ .gitignore
+├─ requirements.txt
 └─ server.py
 ```
+- **`classes/`**  
+  Contains Python classes, each defined in a separate file.
+
+- **`data_source/`**  
+  Stores the server's data sources (e.g., `.json` or SQLite `.db` files).
+
+- **`globals/`**  
+  Contains Python files intended for global/shared access.
+
+- **`utils/`**  
+  Includes helper classes and utility functions.
+
+- **`.gitignore`**  
+  Specifies files and directories to be ignored by Git.
+
+- **`requirements.txt`**  
+  Lists Python packages required for the project.
+
+- **`server.py`**  
+  Core of the server application. Defines API endpoints and manages main logic.
 
 ### Setup virtual enivronment
 This is a practice that you always have to do when working with Python projects. You'll have to create a virtual environment right on the project.

@@ -1,0 +1,5 @@
+---
+outline: deep
+---
+
+# Navigation basics

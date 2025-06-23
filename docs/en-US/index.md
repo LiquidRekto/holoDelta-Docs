@@ -11,17 +11,16 @@ hero:
     alt: HoloDelta
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
+      text: Get started
+      link: /en-US/manual/introduction
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: New to HoloDelta?  
+    details: Jump right in and explore the essentials — it's easier than you think!
+    link: /en-US/manual/what-is-holodelta
+  - title: Ready to run HoloDelta yourself?  
+    details: Follow our quick setup guide and get started in no time.
+    link: /en-US/setup/game-project
+  - title: Love integrating third-party tools?  
+    details: Discover powerful APIs and flexible parameters made just for developers like you!
+    link: /en-US/api/introduction
 ---
