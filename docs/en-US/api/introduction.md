@@ -7,4 +7,4 @@ outline: deep
 This section contains information about available APIs or special parameters that you can use
 with HoloDelta.
 
-If you want to see for the web parameters, checkout (here)[].
+If you want to see for the web parameters, checkout [here](/en-US/api/query-param/general).

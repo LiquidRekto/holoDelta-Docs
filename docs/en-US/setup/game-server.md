@@ -42,13 +42,36 @@ Once you've done, look for the `ServerStuff` folder, that's where all the backen
 - **`server.py`**  
   Core of the server application. Defines API endpoints and manages main logic.
 
+### Installing Python
+
+:::tabs
+== Windows
+Simpliest way is go to python's [official website](https://www.python.org/downloads/windows/).
+Choose the version you want and download the executable based on your system.
+(Recommended to choose the version from 3.10.x or above).
+
+![Image: Releases](/images/docs/game-server/2.png){style="width: 70%; margin:0 auto;"}
+
+Once downloaded, open the installer and proceed with the installation process.
+== Linux
+Depends on your distro, yours could have Python installed right from the start.
+:::
+
 ### Setup virtual enivronment
 This is a practice that you always have to do when working with Python projects. You'll have to create a virtual environment right on the project.
 
 The setup method depends on which OS you are running on:
 :::tabs
 == VS Code
-If you use VS Code, the program should handle it for you.
+Make sure you have [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+installed on VSCode.
+
+Once you have done so, create a Python environment by following the steps below:
+1. Navigate to this section
+
+![Image: Releases](/images/docs/game-server/1.png){style="width: 80%; margin:0 auto;"}
+
+2. 
 == Windows
 Windows
 == Linux
@@ -61,6 +84,11 @@ It should generate a `.venv`                        folder with everything insid
 Afterwards, activate the environment using:
 ```sh
 source .venv/bin/activate
+```
+
+Install python libaries via `requirements.txt` if you haven't (requires you to install pip)
+```sh
+pip install -r requirements.txt
 ```
 :::
 
