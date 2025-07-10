@@ -75,6 +75,6 @@ type of card:
 ["hBP01-009", 2, 0];
 ```
 
-- `"hBD24-005"`: The card number to be included.
+- `"hBP01-009"`: The card number to be included.
 - `2`: The amount of cards to be included.
 - `0`: The variant index of the card.
