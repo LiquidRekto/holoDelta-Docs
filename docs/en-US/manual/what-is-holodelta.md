@@ -9,3 +9,5 @@ Supports all current Hololive OCG cards, including the EN version.
 
 For those who are trying the game for the first time, testing out some decks with your friends and far-away friends,
 or still thinking whether to buy physical Hololive OCG cards or not, this application is **FOR YOU**.
+
+Give it a shot at [HoloDelta game website](https://holodelta.net)!
