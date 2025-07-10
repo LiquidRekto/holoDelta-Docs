@@ -15,7 +15,7 @@ git clone https://github.com/GabeJWJ/holoDelta
 ```
 
 ::: danger IMPORTANT
-**For those who want to contribute to the source repository:** Unless you have a direct access to the repository, you won't able to push your changes directly to the source repository. Instead, fork the source repository then clone it instead. It should be this url if you left everything unchanged on fork creation:
+**For those who want to contribute to the source repository:** Unless you have a direct access to the repository, you won't able to push your changes directly to the source repository. Instead, fork the source repository then clone it. It should be this url if you left everything unchanged on fork creation:
 
 ```sh
 git clone https://github.com/<your_github_username>/holoDelta
